@@ -1,0 +1,79 @@
+body{
+	padding:none;
+	margin:none;
+	background-color:#000020;
+}
+
+a {
+	font-size:20pt;
+}
+
+a:link {
+	color:#FFFFFF;
+}
+
+a:visited {
+	color:#DDDDDD;
+}
+
+a:hover {
+	color:#FFFFFF;
+	font-family:"Courier New";
+}
+
+a:active {
+	color:#FFDDDD;
+	color:;
+}
+
+
+.object_spacer{
+	padding:none;
+	margin:none;
+	height:100%;
+	width:100%;
+}
+
+.vert_spacer{
+	height:25%;
+	width:100%;
+}
+
+.center_me{
+	width:800px;
+	height:50%;
+	margin:auto;
+
+}
+
+.shibe{
+	width:500px;
+	height:375px;
+	margin:auto;
+	position:relative;
+}
+
+.sexy{
+	width:800px;
+	height:600px;
+	position:relative;
+	display:none;
+	margin:auto;
+	opacity:0;
+}
+
+.such_word{
+	opacity:0;
+	position:absolute;
+	font-family:"Comic Sans MS";
+	font-weight:bolder;
+}
+
+.much_code{
+	opacity:0;
+	position:absolute;
+	font-family:"Courier New";
+	font-size:20pt;
+	color:#009900;
+	font-weight:bolder;
+}
